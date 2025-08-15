@@ -5,6 +5,7 @@ import heroBanner from "../../assets/hero_banner.jpg";
 import heroTitle from "../../assets/hero_title.png";
 import playIcon from "../../assets/play_icon.png";
 import infoIcon from "../../assets/info_icon.png";
+import TitleCards from "../../components/TitleCards/TitleCards";
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
             <button className="btn"><img src={playIcon} alt=""></img>Play</button>
             <button className="btn dark-btn"><img src={infoIcon} alt=""></img>More info</button>
           </div>
+          <TitleCards/>
         </div>
       </div>
     </div>
