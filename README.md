@@ -1,4 +1,4 @@
-#🎬 Netflix Clone
+🎬 Netflix Clone
 
 A Netflix Clone web application built with React.js, featuring movie details and trailers powered by the TMDb (The Movie Database) API.
 
@@ -24,7 +24,9 @@ API: TMDb API
 
 Authentication: Firebase (Email/Password)
 
-Hosting :  Vercel 
+Hosting :  Netlify
+
+Hosted Link:https://68a6bc017913f5b6cc5bc945--reliable-genie-32ba3c.netlify.app/
 
 **Clone The Repo**
 
