@@ -26,18 +26,6 @@ Authentication: Firebase (Email/Password)
 
 Hosting :  Vercel 
 
-**Project Structure**
-
-├── public                 # Images for the main background and the icon
-├── src
-│   ├── assets             # Images for the application
-│   ├── pages              # Home, Login, Player
-│   ├── components         # Reusable UI components
-├── App.jsx                # Main App file
-├── LICENSE                #Apache License 2.0
-└── README.md
-
-
 **Clone The Repo**
 
 git clone https://github.com/Thasheeee/netflix.git
